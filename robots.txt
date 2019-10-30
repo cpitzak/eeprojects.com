@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /dev/
+Disallow: /eeprojects.com/personal/
+Disallow: /eeprojects.com/tutor/
+Disallow: /www/a/
+Disallow: /cstutorcenter/korg/
